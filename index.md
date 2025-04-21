@@ -83,9 +83,9 @@ Monitoring	- Kibana, New Relic, Grafana, Promethius
 
 ## Education 
 
-Bachelor of Technology in Mechanical Engineering - Biju Patnaik University of Technology, Odisha | 2009 – 2013
-Higher Secondary (CBSE) – Rotary Public School, Odisha | 2007 – 2009
-Secondary (ICSE) – St. Mary’s Higher Secondary School, Odisha | 2007
+- Bachelor of Technology in Mechanical Engineering - Biju Patnaik University of Technology, Odisha | 2009 – 2013
+- Higher Secondary (CBSE) – Rotary Public School, Odisha | 2007 – 2009
+- Secondary (ICSE) – St. Mary’s Higher Secondary School, Odisha | 2007
 
 
 
