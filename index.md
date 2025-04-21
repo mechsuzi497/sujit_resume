@@ -1,5 +1,5 @@
 - Email: <MSUJIT.PATEL@GMAIL.COM>
-- Location: [HYDERABAD, INDIA]
+- Location: HYDERABAD, INDIA
 - More about me: [Github](https://github.com/mechsuzi497), [LinkedIn](https://www.linkedin.com/in/sujitpateldevops/)
 
 ## Professional Summary
