@@ -1,5 +1,4 @@
-- Email: <MSUJIT.PATEL@gmail.com>
-- Phone: [+917978064041]
+- Email: <MSUJIT.PATEL@GMAIL.COM>
 - Location: [HYDERABAD, INDIA]
 - More about me: [Github](https://github.com/mechsuzi497), [LinkedIn](https://www.linkedin.com/in/sujitpateldevops/)
 
@@ -91,9 +90,9 @@ Duration: November 2015 – June 2021
    
 ## Education 
 
-- Bachelor of Technology in Mechanical Engineering - Biju Patnaik University of Technology, Odisha | 2009 – 2013
-- Higher Secondary (CBSE) – Rotary Public School, Odisha | 2007 – 2009
-- Secondary (ICSE) – St. Mary’s Higher Secondary School, Odisha | 2007
+- Bachelor of Technology in Mechanical Engineering - Biju Patnaik University of Technology, Odisha - 2009 – 2013
+- Higher Secondary (CBSE) – Rotary Public School, Odisha - 2007 – 2009
+- Secondary (ICSE) – St. Mary’s Higher Secondary School, Odisha - 2007
 
 
 
