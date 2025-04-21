@@ -6,7 +6,7 @@ plugins:
 exclude:
   - README.md
 
-title: "RESUME OF Sujit Kumar Patel" # Replace "[Your Name]" with your first and last name.
+title: "Resume OF Sujit Kumar Patel" # Replace "[Your Name]" with your first and last name.
 description: ""
 github:
   is_project_page: false
