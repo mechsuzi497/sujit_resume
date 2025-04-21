@@ -1,6 +1,10 @@
-Sujit Kumar Patel
-+91-7978064041 | msujit.patel11@gmail.com | www.linkedin.com/in/sujitpateldevops
-Professional Summary
+- Email: <MSUJIT.PATEL@gmail.com>
+- Phone: [+917978064041]
+- Location: [HYDERABAD, INDIA]
+- More about me: [Portfolio](https://mechsuzi497.github.io/), [LinkedIn](https://www.linkedin.com/in/sujitpateldevops/)
+
+## Professional Summary
+
 •	Performance-driven IT professional with 9+ years of experience in DevOps and Linux making significant contribution to the growth of organization in the field.
 •	Mainly responsible for automating and streamline the software development lifecycle.
 •	Build and manages CI/CD pipelines for faster and more efficient deployments.
@@ -14,19 +18,9 @@ Professional Summary
 •	Proficient in architecting, implementing, and maintaining robust DevOps solution.
 •	Defines and manages SLOs, SLAs, and SLIs to track and improve reliability.
 •	Handled performance, cost optimization, ensures compliance with security standards.
-Technical Skills
-Category	Tools
-Build	Maven, Ant
-Version Control	GitHub, Bitbucket
-Scripting	Shell, Python
-CI/CD	Jenkins, Tekton, TeamCity, UDeploy, Harness, ArgoCD
-Servers	Tomcat, WebSphere
-Databases	Oracle, Cassandra
-OS	RHEL, CentOS 7
-Config Mgmt	Ansible, Ansible Tower
-Containers	Docker, Kubernetes, OpenShift
-Monitoring	Kibana, New Relic, Grafana, Promethius
-Professional Experience
+
+## Work Experience 
+
 LTIMindtree – Specialist DevOps Engineer
 Client: Leading American Multinational Banking and Financial Services Corporation
 Duration: Oct 2022 – Present
@@ -41,7 +35,11 @@ Duration: Oct 2022 – Present
 •	Deploy applications to Amazon EKS. Ensure manifest validation, rollout strategies, and automated rollback mechanisms.
 •	Use AWS IAM roles and GitHub secrets to securely handle AWS credentials and access tokens. Integrate with HashiCorp Vault or AWS Secrets Manager for secret management.
 •	Define infrastructure (EKS clusters, VPCs, IAM roles, etc.) using Terraform and integrate with GitHub workflows for automated provisioning.
+
+
+
 Accenture – Senior DevOps Engineer
+
 Client: Leading American Multinational Banking and Financial Services Corporation
 Duration: June 2021 – October 2022
 •	Migrated repositories from SVN to Bitbucket. 
@@ -51,6 +49,7 @@ Duration: June 2021 – October 2022
 •	Containerized applications and published artifacts to JFrog Artifactory.
 •	Developed automation scripts in Bash and Python for build and deployment.
 •	Deploy and manage containerized applications using Docker, Kubernetes, and OpenShift, ensuring scalability and resilience of services.
+
 Tata Consultancy Services – DevOps/SRE Engineer
 Client: Swedish MNC Networking and Telecommunication Company
 Duration: November 2015 – June 2021
@@ -65,10 +64,29 @@ Duration: November 2015 – June 2021
 •	Coordinated with QA and development for seamless software releases.
 •	Used monitoring tools like New Relic for application performance tracking.
 •	Work closely with development, QA, and operations teams in Agile/Scrum environments to support reliable software delivery and operational excellence.
-Education
+
+
+## Skills 
+
+Category	Tools
+Build	-	Maven, Ant
+Version Control -	GitHub, Bitbucket
+Scripting	- Shell, Python
+CI/CD		- Jenkins, Tekton, TeamCity, UDeploy, Harness, ArgoCD
+Servers		- Tomcat, WebSphere
+Databases	- Oracle, Cassandra
+OS	-	RHEL, CentOS 7
+Config Mgmt	- Ansible, Ansible Tower
+Containers	- Docker, Kubernetes, OpenShift
+Monitoring	- Kibana, New Relic, Grafana, Promethius
+
+
+## Education 
+
 Bachelor of Technology in Mechanical Engineering - Biju Patnaik University of Technology, Odisha | 2009 – 2013
 Higher Secondary (CBSE) – Rotary Public School, Odisha | 2007 – 2009
 Secondary (ICSE) – St. Mary’s Higher Secondary School, Odisha | 2007
-Personal Details
-Date of birth: 11/10/1990 				Nationality: Indian
-Visa Status: H1b Stamped 
+
+
+
+
