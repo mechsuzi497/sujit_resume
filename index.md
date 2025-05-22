@@ -19,10 +19,12 @@
 -	Handled performance, cost optimization, ensures compliance with security standards.
 
 ## Achievements
-AWS Certified DevOps Engineer – Professional
-https://www.credly.com/badges/0668974c-a655-4959-990c-8ad91db5c465/public_url
+- AWS Certified DevOps Engineer – Professional
+[credly](https://www.credly.com/badges/0668974c-a655-4959-990c-8ad91db5c465/public_url)
+
 Issued by Amazon Web Services (AWS)
-Recognized for expertise in provisioning, operating, and managing distributed application systems on the AWS platform. Demonstrates the ability to automate CI/CD processes, implement monitoring and logging, and secure applications through IAM and best practices.
+Recognized for expertise in provisioning, operating, and managing distributed application systems on the AWS platform. Demonstrates the 
+ability to automate CI/CD processes, implement monitoring and logging, and secure applications through IAM and best practices.
 
 ## Work Experience 
 
