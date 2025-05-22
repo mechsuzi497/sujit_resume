@@ -4,7 +4,7 @@
 
 ## Certifications
 - AWS Certified DevOps Engineer – Professional
-[credly](https://www.credly.com/badges/0668974c-a655-4959-990c-8ad91db5c465/public_url)
+[Credly](https://www.credly.com/badges/0668974c-a655-4959-990c-8ad91db5c465/public_url)
 
 Issued by Amazon Web Services (AWS)
 Recognized for expertise in provisioning, operating, and managing distributed application systems on the AWS platform. Demonstrates the 
