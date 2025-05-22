@@ -2,6 +2,14 @@
 - Location: HYDERABAD, INDIA
 - More about me: [Github](https://github.com/mechsuzi497), [LinkedIn](https://www.linkedin.com/in/sujitpateldevops/)
 
+## Certifications
+- AWS Certified DevOps Engineer – Professional
+[credly](https://www.credly.com/badges/0668974c-a655-4959-990c-8ad91db5c465/public_url)
+
+Issued by Amazon Web Services (AWS)
+Recognized for expertise in provisioning, operating, and managing distributed application systems on the AWS platform. Demonstrates the 
+ability to automate CI/CD processes, implement monitoring and logging, and secure applications through IAM and best practices.
+
 ## Professional Summary
 
 - Performance-driven IT professional with 9+ years of experience in DevOps and Linux making significant contribution to the growth of organization in the field.
@@ -17,14 +25,6 @@
 -	Proficient in architecting, implementing, and maintaining robust DevOps solution.
 -	Defines and manages SLOs, SLAs, and SLIs to track and improve reliability.
 -	Handled performance, cost optimization, ensures compliance with security standards.
-
-## Achievements
-- AWS Certified DevOps Engineer – Professional
-[credly](https://www.credly.com/badges/0668974c-a655-4959-990c-8ad91db5c465/public_url)
-
-Issued by Amazon Web Services (AWS)
-Recognized for expertise in provisioning, operating, and managing distributed application systems on the AWS platform. Demonstrates the 
-ability to automate CI/CD processes, implement monitoring and logging, and secure applications through IAM and best practices.
 
 ## Work Experience 
 
