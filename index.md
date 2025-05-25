@@ -15,6 +15,7 @@
     </button>
   </a>
 </div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0668974c-a655-4959-990c-8ad91db5c465" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - Email: <MSUJIT.PATEL@GMAIL.COM>
 - Location: HYDERABAD, INDIA
 - More about me: [Github](https://github.com/mechsuzi497), [LinkedIn](https://www.linkedin.com/in/sujitpateldevops/)
