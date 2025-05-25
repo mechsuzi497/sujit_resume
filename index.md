@@ -1,6 +1,6 @@
 <!-- Download button at top-right -->
 <div style="position: absolute; top: 20px; right: 20px;">
-  <a href="https://github.com/mechsuzi497/sujit_resume/raw/main/Resume_SujitPatel_DevOps_9yrs-1.docx" download>
+  <a href="https://github.com/mechsuzi497/sujit_resume/blob/b48017caa8384f465154bab040b561f181aebdb7/Resume_SujitPatel_DevOps_9yrs-1.docx" download>
     <button style="
       background-color: #4CAF50;
       color: white;
