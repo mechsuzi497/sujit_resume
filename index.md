@@ -1,3 +1,20 @@
+<!-- Download button at top-right -->
+<div style="position: absolute; top: 20px; right: 20px;">
+  <a href="https://github.com/mechsuzi497/sujit_resume/raw/main/assets/certifications/cert.pdf" download>
+    <button style="
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 16px;
+      border: none;
+      border-radius: 5px;
+      font-size: 14px;
+      cursor: pointer;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    ">
+      📥 Download
+    </button>
+  </a>
+</div>
 - Email: <MSUJIT.PATEL@GMAIL.COM>
 - Location: HYDERABAD, INDIA
 - More about me: [Github](https://github.com/mechsuzi497), [LinkedIn](https://www.linkedin.com/in/sujitpateldevops/)
