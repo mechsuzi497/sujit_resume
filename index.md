@@ -15,18 +15,13 @@
     </button>
   </a>
 </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0668974c-a655-4959-990c-8ad91db5c465" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - Email: <MSUJIT.PATEL@GMAIL.COM>
 - Location: HYDERABAD, INDIA
 - More about me: [Github](https://github.com/mechsuzi497), [LinkedIn](https://www.linkedin.com/in/sujitpateldevops/)
 
 ## Certifications
 - AWS Certified DevOps Engineer – Professional
-[Credly](https://www.credly.com/badges/0668974c-a655-4959-990c-8ad91db5c465/public_url)
-
-Issued by Amazon Web Services (AWS)
-Recognized for expertise in provisioning, operating, and managing distributed application systems on the AWS platform. Demonstrates the 
-ability to automate CI/CD processes, implement monitoring and logging, and secure applications through IAM and best practices.
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0668974c-a655-4959-990c-8ad91db5c465" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## Professional Summary
 
